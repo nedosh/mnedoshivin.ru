@@ -1,0 +1,4 @@
+/* mnedoshivin (visitka) project-only overrides on top of the shared
+   mnedoshivin-format theme (common_extensions/mnedoshivin-format/theme.scss).
+   Only put rules here that must NOT apply to the course sites
+   (CU/FPMI), which share that same format. */
